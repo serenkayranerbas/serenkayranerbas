@@ -1,4 +1,4 @@
-/*![MasterHead](https://media.licdn.com/dms/image/v2/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174916441?e=1762387200&v=beta&t=q-myxQyqHoCeRENRjcaIv__k8ZevsJQp3u-_h0cRSHo)*/
+<!-- ![MasterHead](https://media.licdn.com/dms/image/v2/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174916441?e=1762387200&v=beta&t=q-myxQyqHoCeRENRjcaIv__k8ZevsJQp3u-_h0cRSHo)-->
 <h1 align="center">Hi 👋, I'm Seren Kayran Erbaş</h1>
 <h3 align="center">A frontend developer from Türkiye</h3>
 
