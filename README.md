@@ -1,28 +1,107 @@
-<!-- ![MasterHead](https://media.licdn.com/dms/image/v2/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174916441?e=1762387200&v=beta&t=q-myxQyqHoCeRENRjcaIv__k8ZevsJQp3u-_h0cRSHo)-->
 <h1 align="center">Hi 👋, I'm Seren Kayran Erbaş</h1>
-<h3 align="center">A frontend developer from Türkiye</h3>
+<h3 align="center">Data Analyst | SQL • Python • BigQuery • dbt • Power BI • Tableau</h3>
 
-- 🔭 I’m currently working on **React Restaurant projesi**
+---
 
-- 🌱 I’m currently learning **Typescript, TailwindCSS**
+## 👩‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://serenkayran.wuaze.com/](https://serenkayran.wuaze.com/)
+I'm a Data Analyst with a software development background, passionate about transforming raw data into meaningful insights.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/serenkayran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serenkayran" height="30" width="40" /></a>
-<a href="https://instagram.com/serenkayran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serenkayran" height="30" width="40" /></a>
+I enjoy building data pipelines, modeling datasets, creating interactive dashboards, and helping businesses make data-driven decisions.
+
+- 🔭 Currently working on **Data Analytics & Business Intelligence Projects**
+- 🌱 Currently learning **dbt, BigQuery, Data Modeling, ELT Pipelines**
+- 💡 Interested in **Data Analytics, Business Intelligence, Data Engineering**
+- 📫 Reach me on **LinkedIn**
+
+---
+
+## 🛠 Tech Stack
+
+### 📊 Data Analytics
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a><br> <br><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Data Tools**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serenkayranerbas&show_icons=true&locale=en&layout=compact" alt="serenkayranerbas" /></p>
+- SQL
+- BigQuery
+- dbt
+- Power BI
+- Tableau
+- Excel
+- Pandas
+- NumPy
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serenkayranerbas&show_icons=true&locale=en" alt="serenkayranerbas" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serenkayranerbas&" alt="serenkayranerbas" /></p>
+## 📂 Featured Projects
 
+### 📈 Greenweez ELT Pipeline
+- BigQuery
+- dbt
+- SQL
+- Data Modeling
+- Data Quality Testing
 
+---
+
+### 🛒 Olist E-Commerce Analytics
+
+- Customer Analytics
+- Sales Performance
+- Logistics Analysis
+- KPI Dashboard
+- SQL
+- Power BI
+
+---
+
+### 🌦 Weather Data Analysis
+
+- Python
+- Pandas
+- NumPy
+- Data Visualization
+
+---
+
+## 📫 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/serenkayran">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+
+<a href="https://instagram.com/serenkayran">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=serenkayranerbas&show_icons=true&theme=default"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenkayranerbas&layout=compact"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=serenkayranerbas"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
 
 ![snake gif](https://github.com/serenkayranerbas/serenkayranerbas/blob/output/github-contribution-grid-snake.gif)
